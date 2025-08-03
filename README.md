@@ -90,7 +90,7 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
 ## 👥 Contributors
-![@vicheka884](https://contrib.rocks/image?repo=vicheka884)
+![@vicheka884](https://contrib.rocks/image?repo=vicheka884/Homework_git)
 
 
 ## 📄 License
