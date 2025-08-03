@@ -52,7 +52,7 @@ cd school-management-system
 npm install
 ```
 # Screenshot
-## Image
+
 ![vich](./image/Vi.png)
 ## 🔧 Usage
 To run the server in development mode:
